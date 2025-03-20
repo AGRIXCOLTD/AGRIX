@@ -1,7 +1,7 @@
 {
   "name": "AgriX TOKEN",
   "symbol": "AGRIX",
-  "uri": "https://example.com/token-metadata.json",
+  "uri": "https://raw.githubusercontent.com/AGRIXCOLTD/AGRIX/main/token-metadata.json",
   "seller_fee_basis_points": 0,
   "creators": [
     {
