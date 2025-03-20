@@ -1,0 +1,13 @@
+{
+  "name": "AgriX TOKEN",
+  "symbol": "AGRIX",
+  "uri": "https://example.com/token-metadata.json",
+  "seller_fee_basis_points": 0,
+  "creators": [
+    {
+      "address": "53y3HdweD1ynCYe5zyy7gRGqawpF9hiCwioEfbUNdTS",
+      "verified": true,
+      "share": 100
+    }
+  ]
+}
